@@ -1,0 +1,9 @@
+G:\vsproject\Ray\Ray\bin\Debug\Ray.exe.config
+G:\vsproject\Ray\Ray\bin\Debug\Ray.exe
+G:\vsproject\Ray\Ray\bin\Debug\Ray.pdb
+G:\vsproject\Ray\Ray\obj\Debug\Ray.csprojResolveAssemblyReference.cache
+G:\vsproject\Ray\Ray\obj\Debug\Ray.Properties.Resources.resources
+G:\vsproject\Ray\Ray\obj\Debug\Ray.csproj.GenerateResource.Cache
+G:\vsproject\Ray\Ray\obj\Debug\Ray.exe
+G:\vsproject\Ray\Ray\obj\Debug\Ray.pdb
+G:\vsproject\Ray\Ray\obj\Debug\Ray.Form1.resources
